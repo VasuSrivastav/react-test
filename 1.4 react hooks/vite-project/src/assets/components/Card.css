@@ -1,0 +1,19 @@
+.asd{
+    background-color: #f18b8b;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+    text-align: center;
+}
+body{
+    background-color: #f7cc59;
+}
+.hidden{
+    display: none;
+}

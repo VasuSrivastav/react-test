@@ -1,0 +1,13 @@
+.cardss {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 20px;
+}
+.hero {
+  background-color: #dad3d3;
+}
+div {
+  /* background-color: #fff; error */
+}
